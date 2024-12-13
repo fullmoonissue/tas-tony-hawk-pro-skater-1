@@ -1,3 +1,10 @@
+> [!NOTE]
+> PARTYMANX has shared his work (cf issue #1), the investigation can now be declared as a case closed.
+>
+> End results : Only 3 gaps, not reached, seem to exist (200 Feet, 225 Feet, 250 Feet) but the others don't seem to be implemented.
+>
+> Below, my original investigation.
+
 # Gaps of THPS 1
 
 As mentioned in the [Tony Hawk's fandom wiki](https://tonyhawkgames.fandom.com/wiki/Gap) : `A complete gap list for THPS1 was never released`.
